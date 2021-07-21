@@ -17,7 +17,7 @@ If you use this code, pleae cite the following papers in your work.
 1. Download clean raw datasets and divide them into train, validate, and test. Then, put them into './data/datasets/ raw_clearn_ICVL_train/',
 './data/datasets/ raw_clearn_ICVL_validate/', and './data/datasets/ raw_clearn_ICVL_test/' files separately. 
 
-2. "run demo_add_iidgaussian_blind.m" to add i.i.d Gaussian noise to train, validate, and test datasets.
+2. "run readfns.m" to read the filenames of train, validate and test datasets.
 
 3. "run demo_add_iidgaussian.m" to add i.i.d Gaussian noise to train, validate, and test datasets.
 
