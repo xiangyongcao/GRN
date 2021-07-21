@@ -19,7 +19,7 @@ If you use this code, pleae cite the following papers in your work.
 
 2. "run demo_add_iidgaussian_blind.m" to add i.i.d Gaussian noise to train, validate, and test datasets.
 
-3. "run demo_add_iidgaussian_blind.m" to add i.i.d Gaussian noise to train, validate, and test datasets.
+3. "run demo_add_iidgaussian.m" to add i.i.d Gaussian noise to train, validate, and test datasets.
 
 4. "run generate_train.m" to generate the ".h5" file of training patch.
 
