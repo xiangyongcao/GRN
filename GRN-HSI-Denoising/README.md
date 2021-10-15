@@ -5,11 +5,17 @@ This is the code for the TGRS paper "Deep Spatial-Spectral Global Reasoning Netw
 If you use this code, pleae cite the following papers in your work.
 
 @article{cao2021deep,
+
 	title={Deep Spatial-Spectral Global Reasoning Network for Hyperspectral Image Denoising},
+	
 	author={Cao, Xiangyong and Fu, Xueyang and Xu, Chen and Meng, Deyu},
+	
 	journal={IEEE Transactions on Geoscience and Remote Sensing},
+	
 	year={DOI: 10.1109/TGRS.2020.3016820},
+	
 	publisher={IEEE}
+	
 }
 
 ## Follow these steps to run the code:
