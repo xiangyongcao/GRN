@@ -18,6 +18,11 @@ If you use this code, pleae cite the following papers in your work.
 	
 }
 
+## Follow these steps to use the pretrained model:
+
+1. "run test.py" to test the trained network in the pretrained_model file.
+
+
 ## Follow these steps to run the code:
 
 1. Download clean raw datasets and divide them into train, validate, and test. Then, put them into './data/datasets/ raw_clearn_ICVL_train/',
