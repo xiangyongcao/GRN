@@ -26,7 +26,7 @@ os.environ['CUDA_VISIBLE_DEVICES'] = "0"
 
 start = time.time()
 
-model_path = './model/ICVL_stage1/'
+model_path = './Pretrained_model/case1/'  # can be changed
 data_path = './data/datasets/ICVL_test_pair_whole_image/stage1/icvl_50/'
 result_path = './result/icvl_test/'
 
