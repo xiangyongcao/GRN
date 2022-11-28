@@ -21,7 +21,8 @@ If you use this code, pleae cite the following papers in your work.
 ## Follow these steps to use the pretrained model:
 
 1. "run test.py" to test the trained network in the pretrained_model file.
-(To reproduce the results in Table II, please use ICVL_stage2; To reproduce the results in Table III, please use ICVL_stage3)
+
+Note: To test the Gaussian noise in Table II, please use ICVL_stage1. To test the blind Gaussian noise, please use ICVL_stage2. To test the complex noise of the five cases, please use ICVL_stage3.
 
 
 ## Follow these steps to train the network from scratch:
